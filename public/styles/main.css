@@ -1,22 +1,37 @@
-.row {
-  border: 1px black solid;
+.menu {
+  width: 85%;
   margin: 0 auto;
+  border: 1px black solid;
+  background-color: gray;
 }
 
-.col-sm-9 {
-  border: 1px green solid;
+.header {
+  border: 1px black solid;
+  margin: 0 auto;
+  /*width: 80%;*/
+  padding: 0;
+}
+
+.col-lg-10 {
+  border: 1px black solid;
   background-color: green;
   margin: 0 auto;
+  width: 100%;
 }
 
 .left {
-  border: 1px red solid;
+  border: 1px black solid;
   background-color: red;
   margin: 0 auto;
 }
 
 .right {
-  border: 1px blud solid;
+  border: 1px black solid;
   background-color: blue;
+  margin: 0 auto;
+}
+
+.footer {
+  border: 1px black solid;
   margin: 0 auto;
 }
