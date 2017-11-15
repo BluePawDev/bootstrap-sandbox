@@ -1,0 +1,22 @@
+.row {
+  border: 1px black solid;
+  margin: 0 auto;
+}
+
+.col-sm-9 {
+  border: 1px green solid;
+  background-color: green;
+  margin: 0 auto;
+}
+
+.left {
+  border: 1px red solid;
+  background-color: red;
+  margin: 0 auto;
+}
+
+.right {
+  border: 1px blud solid;
+  background-color: blue;
+  margin: 0 auto;
+}
