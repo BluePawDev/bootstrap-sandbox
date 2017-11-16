@@ -5,10 +5,16 @@
   background-color: gray;
 }
 
+.row {
+  /*width: 100%;*/
+}
+
 .header {
   /*border: 1px black solid;*/
+  margin: 0 auto;
   text-align: center;
   background-color: orange;
+  width: 70%;
 }
 
 .menu-cols {
@@ -20,6 +26,7 @@
   background-color: red;
   text-align: center;
   color: white;
+  /*width: 40%;*/
 }
 
 .right {
@@ -27,6 +34,7 @@
   background-color: blue;
   text-align: center;
   color: white;
+  /*width: 35%;*/
 }
 
 .footer {
@@ -34,4 +42,5 @@
   margin: 0 auto;
   text-align: center;
   background-color: yellow;
+  width: 70%;
 }
