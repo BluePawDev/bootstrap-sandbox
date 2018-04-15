@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox repo for Bootstrap testing, playing, and learning new strategies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluePawDev/bootstrap-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BluePawDev/bootstrap-sandbox/issues"
+  },
+  "homepage": "https://github.com/BluePawDev/bootstrap-sandbox#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
